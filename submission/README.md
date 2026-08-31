@@ -1,6 +1,6 @@
 # submission/
 
-One file lives here: **`https://ammara-hussain.github.io/FlyRank-Research-Paper/`**.
+One file lives here: https://ammara-hussain.github.io/FlyRank-Research-Paper.
 
 When your capstone research paper is deployed, replace the placeholder in
 `paper_url.txt` with **exactly one line — the direct URL of your deployed paper**.
